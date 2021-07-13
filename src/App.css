@@ -1,0 +1,16 @@
+body {
+  --slack-color: #3f0f40;
+  overflow: hidden;
+}
+
+.app__body {
+  display: flex;
+  height: 100vh;
+}
+
+.app__welcome {
+  display: flex;
+  font-size: 25px;
+  font-family: "Redressed", cursive;
+  padding: 15px;
+}
